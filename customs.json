@@ -1,0 +1,12 @@
+{
+    "elements": {},
+    "attributes": {
+        "data-toggle": {},
+        "aria-expanded": {
+            "context": "button"
+        },
+        "aria-haspopup": {
+            "context": "button"
+        }
+    }
+}
